@@ -583,8 +583,6 @@ body {
 /*••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• Banner principal •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••*/
 .seccion-banner-principal {
   display: flex;
-  align-items: center;
-  justify-content: center;
   font-family: inherit;
   height: auto;
   width: 100%;
